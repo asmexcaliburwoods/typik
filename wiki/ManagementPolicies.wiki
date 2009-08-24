@@ -1,0 +1,5 @@
+#summary Управленческая политика
+
+= Что где лежит? =
+  * *Документация по предметной области и другая рабочая документация:* в [http://code.google.com/p/typik/w/list вики];
+  * *Логи бесед:* в [http://groups.google.com/group/christian-opensource-dev/t/c92c6f2e41f9354a рассылке].
