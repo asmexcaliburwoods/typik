@@ -1,4 +1,2 @@
-=Навигатор=
-
   * [Introduction Введение]
   * [Milestones Этапы]
