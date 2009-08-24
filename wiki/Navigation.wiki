@@ -1,2 +1,3 @@
   * [Introduction Введение, цель проекта, этапы]
   * [ManagementPolicies Управление проектом]
+  * [Template Шаблон службы]
