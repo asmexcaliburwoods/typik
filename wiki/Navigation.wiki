@@ -1,5 +1,4 @@
   * [Introduction Введение, цель проекта, этапы]
   * [Template Шаблон службы]
-
   * [ManagementPolicies Управление проектом]
   * [http://code.google.com/p/typik/updates/list Прогресс проекта]
