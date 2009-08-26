@@ -2,3 +2,4 @@
   * [Template Шаблон службы]
   * [ManagementPolicies Управление проектом]
   * [http://code.google.com/p/typik/updates/list Прогресс проекта]
+  * [Chronicles Летопись проекта]
