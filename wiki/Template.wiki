@@ -95,4 +95,4 @@ PS: Остается выяснить последовательность фи�
 
 Схематично можно представить следующим образом:
 
-http://typik.googlecode.com/issues/attachment?aid=-4408660781528173289&name=Model.png
+http://typik.googlecode.com/issues/attachment?aid=-4408660781528173289&name=Model.png&token=Ziz9t_syBePgEj0YNtl0HG9G1t8%3A1328194571158&inline=1
