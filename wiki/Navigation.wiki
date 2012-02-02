@@ -1,0 +1,6 @@
+  * [http://code.google.com/p/typik/wiki/Introduction Введение, цель проекта, этапы, статус].
+  * [http://code.google.com/p/typik/updates/list Прогресс проекта]
+  * [Chronicles Летопись проекта]
+  * Разное
+    * [Template Шаблон службы]
+    * [ManagementPolicies Управление проектом]
